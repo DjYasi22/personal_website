@@ -7,7 +7,7 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url(pic1.jpg);
+  background-image: url(djesus.jpg);
 }
 .sidebar {
   position: fixed;
@@ -51,7 +51,7 @@ ul li:hover a{
 }
 label #btn,label #cancel{
   position: absolute;
-  background: #cfd0d1;
+  background: #ce1cb6;
   border-radius: 3px;
   width: 20px;
   height: 20px;
@@ -102,5 +102,13 @@ label #cancel{
   
 }
 h1{
+  color: black;
+}
+
+h3{
+  color: black;
+}
+
+h2{
   color: black;
 }
